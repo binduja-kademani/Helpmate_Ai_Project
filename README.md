@@ -43,18 +43,16 @@ Ensure you have the following installed:
 - Docker (optional, for containerized deployment)
 
 ### Installation
-1. Clone the repo:
-git clone https://github.com/SandeepGitGuy/HelpMate_AI_Project_GenAI_UpGrad_IIITB.git
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 cd HelpMate_AI_Project_GenAI_UpGrad_IIITB
 
-3. Install the required dependencies:
+2. Install the required dependencies:
 pip install -r requirements.txt
 
 - Please note: OpenAI API keys are required for the project to function. You can obtain them from the OpenAI website and change the same in the code. We have updated the code and added more models to make it more dynamic in V2 of the project.
 
-4. Run the main file from Jupyter environment:
+3. Run the main file from Jupyter environment:
 "helpmate-ai-upgrad_sandeep_b.ipynb"
 
 ---
@@ -93,11 +91,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 💬 Contact
-For any queries or feedback, feel free to reach out:
-
-- **Email**: sandy974278@gmail.com
-- **GitHub**: https://github.com/SandeepGitGuy
-- **LinkedIn**: www.linkedin.com/in/sandeepgowda24a319192
-
----
